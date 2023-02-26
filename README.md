@@ -37,9 +37,8 @@
  <a href="https://murillopy.github.io/MurilloSantos/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></img></a>
  <a href="https://codepen.io/MurilloSantos"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a></img>
    <a alt="Murillo-Twitter" a href="https://twitter.com/MurilloPy"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-   
-   <address> <a alt="Murillo-Gmail" href="mailto:MurilloBeijamin@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a></address>
-   <a alt="Murillo-Linkedin" a href="https://www.linkedin.com/in/murillopy"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a alt="Murillo-Facebook" href="https://www.facebook.com/MurilloBeijamin"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"</img></a>
+   <a alt="Murillo-Linkedin" a href="https://www.linkedin.com/in/MurilloBeijamin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href="https://www.deviantart.com/murillosantos"><img src="https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white"></img></a></img></a>
    
  <div/>
