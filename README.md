@@ -1,8 +1,8 @@
 
 <div name="stats">
   
-<img src="https://github-readme-stats.vercel.app/api?username=MurilloBeijamin&show_icons=true&theme=blueberry">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MurilloBeijamin&layout=compact&theme=blueberry">
+<img width="400px" src="https://github-readme-stats.vercel.app/api?username=MurilloBeijamin&show_icons=true&theme=blueberry">
+<img width="435px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MurilloBeijamin&layout=compact&theme=blueberry">
 
 </div>
 
