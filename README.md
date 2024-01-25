@@ -13,7 +13,6 @@
 <a name="CSS"  href="https://www.github.com/MurilloBeijamin"><img src="https://i.ibb.co/Mc3Cs8w/icons8-css-480.png" width="60px" alt="icons8-css-480" border="0"></a>
 <a name="JavaScript" href="https://www.github.com/MurilloBeijamin"> <img src="https://i.ibb.co/zSY8Wtx/icons8-javascript-480.png" width="60px" alt="icons8-javascript-480" border="0"></a>
 <a name="Kotlin" href="https://www.github.com/MurilloBeijamin"><img src="https://i.ibb.co/ws53RwB/icons8-kotlin-480.png" width="60px" border="0"></a>
-<a name="React Native" href="https://www.github.com/MurilloBeijamin"><img src="https://i.ibb.co/t3Hm4zn/icons8-nativo-de-reagir-480.png" width="60px" alt="icons8-nativo-de-reagir-480" border="0"></a>
 <a name="Python" href="https://www.github.com/MurilloBeijamin"><img src="https://i.ibb.co/8dfDDSf/icons8-python-480.png" width="60px" alt="icons8-python-480" border="0"></a>
 
 </div>
