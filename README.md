@@ -14,7 +14,6 @@
 <a name="JavaScript" href="https://www.github.com/MurilloBeijamin"> <img src="https://i.ibb.co/zSY8Wtx/icons8-javascript-480.png" width="60px" alt="icons8-javascript-480" border="0"></a>
 <a name="Kotlin" href="https://www.github.com/MurilloBeijamin"><img src="https://i.ibb.co/ws53RwB/icons8-kotlin-480.png" width="60px" border="0"></a>
 <a name="Python" href="https://www.github.com/MurilloBeijamin"><img src="https://i.ibb.co/8dfDDSf/icons8-python-480.png" width="60px" alt="icons8-python-480" border="0"></a>
-<a name="Java" href="https://www.github.com/MurilloBeijamin"><img src="https://i.ibb.co/HPJYgXw/icons8-logo-java-coffee-cup-240.png" width="60px" alt="icons8-logo-java-coffee-cup-240" border="0"></a>
 
 </div>
 
